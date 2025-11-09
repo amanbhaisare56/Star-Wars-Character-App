@@ -2,7 +2,7 @@
 
 A modern React + Vite application that displays Star Wars characters using **SWAPI**, featuring a cinematic UI, smooth animations, and locally stored images for consistent performance.
 
-# Live - https://star-wars-character-app-git-main-aman-bhaisares-projects.vercel.app/
+Live - https://star-wars-character-app-git-main-aman-bhaisares-projects.vercel.app/
 
 ## 🌟 Features
 - Responsive character grid with elegant card design  
